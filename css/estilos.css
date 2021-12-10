@@ -13,6 +13,30 @@ body{
     background: var(--color-primario);
     font-family: var(--font-principal);
 }
+body::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+body::-webkit-scrollbar:vertical {
+    width:9px;
+}
+body::-webkit-scrollbar-button:increment,body::-webkit-scrollbar-button {
+    display: none;
+}
+
+body::-webkit-scrollbar:horizontal {
+    height: 2px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: var(--color-secundario);
+    border-radius: 20px;
+    border: 1px solid var(--color-primario);
+}
+
+body::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
 
 /*====================================HEADER=============================================*/
 header{
