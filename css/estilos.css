@@ -300,7 +300,6 @@ nav {
 
 .icon {
   border-radius: 6px;
-  box-shadow: 3px 3px 2px #0f0f0f;
   background: var(--color-primario);
   padding: 0.75rem;
   margin: 4px;
