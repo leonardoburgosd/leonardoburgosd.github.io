@@ -1,2 +1,11 @@
 # Portafolio
-Este es mi portafolio personal, en el detallo sobre mis conocimientos sobre desarrollo web.
+ Portafolio personal
+ 
+ Tecnologías:
+- Html
+- Css
+- Javascript
+  
+Acceso:  
+  [leonardoburgosd.github.io](https://leonardoburgosd.github.io)
+  
