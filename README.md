@@ -4,9 +4,9 @@
 ## Tecnologías
 En este proyecto ah sido implementado con:
 
-1. Html 
-2. Css 
-3. Javascript :white_check_mark:
+1. :white_check_mark: Html 
+2. :white_check_mark: Css 
+3. :white_check_mark: Javascript 
 
 Este proyecto ah sido desplegado con Github Pages al cual tienen acceso en la siguiente dirección:
  
